@@ -24,7 +24,7 @@
         <spring-boot.version>2.0.1.RELEASE</spring-boot.version>
         <paho.client.mqttv3.version>1.2.0</paho.client.mqttv3.version>
         <lombok.version>1.16.16</lombok.version>
-        <fastjson.version>1.2.30</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
     </properties>
 
     <dependencies>
